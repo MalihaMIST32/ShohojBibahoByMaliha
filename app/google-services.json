@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "890449976682",
+    "firebase_url": "https://shohojbibaho-f3102.firebaseio.com",
+    "project_id": "shohojbibaho-f3102",
+    "storage_bucket": "shohojbibaho-f3102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890449976682:android:950698d7ad27dff1",
+        "android_client_info": {
+          "package_name": "com.example.maliha.shohojbibaho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890449976682-7mbbjsp5gpmhqcro1o2c75jb38aufklp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maliha.shohojbibaho",
+            "certificate_hash": "410f867206411001a98dd727be7b8be1564b4101"
+          }
+        },
+        {
+          "client_id": "890449976682-j4ruieidf862ii3tgnbsjgqi3pp08pj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GB-4KZAtaYPA9omE2ucCLsAzjcVStPo"
+        },
+        {
+          "current_key": "AIzaSyD_GB-4KZAtaYPA9omE2ucCLsAzjcVStPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890449976682-j4ruieidf862ii3tgnbsjgqi3pp08pj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
